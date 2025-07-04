@@ -1,8 +1,8 @@
 ---
-title: LA by Night
+title: Los Angeles by Night
 ---
 
-Это игра по мотивам Vampire The Masquerade: Bloodlines и одноимённого веб-сериала на Twitch.
+Это игра по мотивам Vampire The Masquerade: Bloodlines и [одноимённого веб-сериала](https://www.youtube.com/playlist?list=PLHy91_vd8BAM17yUmpgPr7ApLxsswJ1qy).
 
 События игры происходят в [[Лос-Анджелес|Лос-Анджелесе]], в 2025 году.
 
