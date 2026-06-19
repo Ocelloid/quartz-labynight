@@ -16,7 +16,7 @@ title: Los Angeles by Night
 
 # Создание персонажа
 
-При создании персонажа вы можете воспользоваться правилами из [основной книги](https://drive.google.com/file/d/1U7o2HIPdHVgJIQ1pp4GaZF6lnj2sZfgy/view?usp=drive_link), [руководства игрока](https://drive.google.com/file/d/1Rvv6n_YXb_-mkWFP99qXg0_kM9nsjYnx/view?usp=drive_link) и книги [Инквизиция](https://drive.google.com/file/d/1EK141Wl1oK-tc3ullt3Jvoub_KeMdU9K/view?usp=drive_link). Настоятельно рекомендую использовать [[index#Страницы истории|Страницы истории]] из этого раздела, а не из перечисленных книг.
+При создании персонажа вы можете воспользоваться правилами из [основной книги](https://drive.google.com/file/d/1U7o2HIPdHVgJIQ1pp4GaZF6lnj2sZfgy/view?usp=drive_link), [руководства игрока](https://drive.google.com/file/d/1Rvv6n_YXb_-mkWFP99qXg0_kM9nsjYnx/view?usp=drive_link) и книгах [Анархи](https://drive.google.com/file/d/1V9Dids6fpwnKuC4f34bB8BcJbSzU1sZx/view?usp=drive_link) и [Инквизиция](https://drive.google.com/file/d/1EK141Wl1oK-tc3ullt3Jvoub_KeMdU9K/view?usp=drive_link). Настоятельно рекомендую использовать [[index#Страницы истории|Страницы истории]] из этого раздела, а не из перечисленных книг.
 
 Не все они обязательны к прочтению, знания основных правил достаточно.
 
