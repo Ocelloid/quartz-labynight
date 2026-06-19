@@ -39,6 +39,8 @@ export const defaultContentPageLayout: PageLayout = {
       ],
     }),
     Component.Explorer({
+      // Прячем из сайдбара служебные/скрытые разделы: tags и unlisted-папку st.
+      filterFn: (node) => node.slugSegment !== "tags" && node.slugSegment !== "st",
       sortFn: (a, b) => {
         if ((!a.isFolder && !b.isFolder) || (a.isFolder && b.isFolder)) {
           return b.displayName.localeCompare(a.displayName, undefined, {
@@ -77,7 +79,9 @@ export const defaultListPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
-    Component.Explorer(),
+    Component.Explorer({
+      filterFn: (node) => node.slugSegment !== "tags" && node.slugSegment !== "st",
+    }),
   ],
   right: [],
 }

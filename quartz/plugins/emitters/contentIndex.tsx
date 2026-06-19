@@ -101,6 +101,17 @@ export const ContentIndex: QuartzEmitterPlugin<Partial<Options>> = (opts) => {
       const linkIndex: ContentIndexMap = new Map()
       for (const [tree, file] of content) {
         const slug = file.data.slug!
+        // "unlisted" страницы публикуются (доступны по прямому URL через ContentPage),
+        // но исключаются из индекса → не попадают в поиск, граф, sitemap и RSS.
+        const fm = file.data.frontmatter
+        const isUnlisted =
+          fm?.unlisted === true ||
+          fm?.unlisted === "true" ||
+          slug === "st" ||
+          slug.startsWith("st/")
+        if (isUnlisted) {
+          continue
+        }
         const date = getDate(ctx.cfg.configuration, file.data) ?? new Date()
         if (opts?.includeEmptyFiles || (file.data.text && file.data.text !== "")) {
           linkIndex.set(slug, {
