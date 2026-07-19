@@ -12,3 +12,4 @@ replit.nix
 .cursor/
 TMP/
 AGENTS.md
+.venv-books/
