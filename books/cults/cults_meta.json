@@ -1,0 +1,3178 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Cults of the Blood Gods",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": null
+    },
+    {
+      "title": "Cults of the Blood Gods (Credits))",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": null
+    },
+    {
+      "title": "Table of Contents",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": null
+    },
+    {
+      "title": "Just Another Family Dinner",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": null
+    },
+    {
+      "title": "Introduction",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": null
+    },
+    {
+      "title": "Believe in the Blood",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": null
+    },
+    {
+      "title": "A Place of Worship",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": null
+    },
+    {
+      "title": "Existing in Religious Disharmony",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": null
+    },
+    {
+      "title": "Chapter One: Rise of the Methuselah Cult",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": null
+    },
+    {
+      "title": "The Justicars Speak",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": null
+    },
+    {
+      "title": "The Why and Way of Worship",
+      "heading_level": null,
+      "page_id": 19,
+      "polygon": null
+    },
+    {
+      "title": "The Bull and the Blood and the Bone",
+      "heading_level": null,
+      "page_id": 19,
+      "polygon": null
+    },
+    {
+      "title": "Time of Thin Blood",
+      "heading_level": null,
+      "page_id": 20,
+      "polygon": null
+    },
+    {
+      "title": "Brother Sweetwater Speaks",
+      "heading_level": null,
+      "page_id": 21,
+      "polygon": null
+    },
+    {
+      "title": "Protect the Flock",
+      "heading_level": null,
+      "page_id": 21,
+      "polygon": null
+    },
+    {
+      "title": "A Cainite Hymnal",
+      "heading_level": null,
+      "page_id": 21,
+      "polygon": null
+    },
+    {
+      "title": "Planting the Seed",
+      "heading_level": null,
+      "page_id": 23,
+      "polygon": null
+    },
+    {
+      "title": "Rotten to the Core",
+      "heading_level": null,
+      "page_id": 23,
+      "polygon": null
+    },
+    {
+      "title": "Beauty is Divine Truth",
+      "heading_level": null,
+      "page_id": 25,
+      "polygon": null
+    },
+    {
+      "title": "Bed the Bones",
+      "heading_level": null,
+      "page_id": 26,
+      "polygon": null
+    },
+    {
+      "title": "Hail Gorgo, Slayer of Men",
+      "heading_level": null,
+      "page_id": 28,
+      "polygon": null
+    },
+    {
+      "title": "The Seeker and the Moon",
+      "heading_level": null,
+      "page_id": 28,
+      "polygon": null
+    },
+    {
+      "title": "On a Mission for the Goddess",
+      "heading_level": null,
+      "page_id": 29,
+      "polygon": null
+    },
+    {
+      "title": "Trickle-Up Religion",
+      "heading_level": null,
+      "page_id": 31,
+      "polygon": null
+    },
+    {
+      "title": "Beware False Religions",
+      "heading_level": null,
+      "page_id": 31,
+      "polygon": null
+    },
+    {
+      "title": "The Lord of the Red Desert",
+      "heading_level": null,
+      "page_id": 32,
+      "polygon": null
+    },
+    {
+      "title": "Chapter Two: Kindred Religions",
+      "heading_level": null,
+      "page_id": 35,
+      "polygon": null
+    },
+    {
+      "title": "The Ashfinders",
+      "heading_level": null,
+      "page_id": 35,
+      "polygon": null
+    },
+    {
+      "title": "Dust to Dust",
+      "heading_level": null,
+      "page_id": 36,
+      "polygon": null
+    },
+    {
+      "title": "Are Millennials Killing Kindred Elders?",
+      "heading_level": null,
+      "page_id": 36,
+      "polygon": null
+    },
+    {
+      "title": "Data Mining",
+      "heading_level": null,
+      "page_id": 37,
+      "polygon": null
+    },
+    {
+      "title": "Cinder Institute: Ibiza",
+      "heading_level": null,
+      "page_id": 38,
+      "polygon": null
+    },
+    {
+      "title": "Perspectives",
+      "heading_level": null,
+      "page_id": 38,
+      "polygon": null
+    },
+    {
+      "title": "Beast Shards",
+      "heading_level": null,
+      "page_id": 39,
+      "polygon": null
+    },
+    {
+      "title": "Amber Freeman (ThriveHive)",
+      "heading_level": null,
+      "page_id": 39,
+      "polygon": null
+    },
+    {
+      "title": "Dr. James “Mortius” Howitt",
+      "heading_level": null,
+      "page_id": 42,
+      "polygon": null
+    },
+    {
+      "title": "Ashfinder Blood Alchemy",
+      "heading_level": null,
+      "page_id": 44,
+      "polygon": null
+    },
+    {
+      "title": "Level 3",
+      "heading_level": null,
+      "page_id": 45,
+      "polygon": null
+    },
+    {
+      "title": "Concoct Ashe",
+      "heading_level": null,
+      "page_id": 45,
+      "polygon": null
+    },
+    {
+      "title": "Chemically-Induced Flashback",
+      "heading_level": null,
+      "page_id": 45,
+      "polygon": null
+    },
+    {
+      "title": "Level 4",
+      "heading_level": null,
+      "page_id": 46,
+      "polygon": null
+    },
+    {
+      "title": "Discipline Channeling",
+      "heading_level": null,
+      "page_id": 46,
+      "polygon": null
+    },
+    {
+      "title": "The Bahari, Children of Lilith",
+      "heading_level": null,
+      "page_id": 46,
+      "polygon": null
+    },
+    {
+      "title": "Overly Devoted Scholarship",
+      "heading_level": null,
+      "page_id": 47,
+      "polygon": null
+    },
+    {
+      "title": "Out of the Desert",
+      "heading_level": null,
+      "page_id": 48,
+      "polygon": null
+    },
+    {
+      "title": "Beliefs",
+      "heading_level": null,
+      "page_id": 49,
+      "polygon": null
+    },
+    {
+      "title": "Organization",
+      "heading_level": null,
+      "page_id": 49,
+      "polygon": null
+    },
+    {
+      "title": "Modern Nights",
+      "heading_level": null,
+      "page_id": 50,
+      "polygon": null
+    },
+    {
+      "title": "Recruitment",
+      "heading_level": null,
+      "page_id": 50,
+      "polygon": null
+    },
+    {
+      "title": "Bases of Operations",
+      "heading_level": null,
+      "page_id": 51,
+      "polygon": null
+    },
+    {
+      "title": "Garden of Hope: Budapest",
+      "heading_level": null,
+      "page_id": 52,
+      "polygon": null
+    },
+    {
+      "title": "Goals",
+      "heading_level": null,
+      "page_id": 53,
+      "polygon": null
+    },
+    {
+      "title": "Rites and Rituals",
+      "heading_level": null,
+      "page_id": 54,
+      "polygon": null
+    },
+    {
+      "title": "Enemies",
+      "heading_level": null,
+      "page_id": 54,
+      "polygon": null
+    },
+    {
+      "title": "Perspectives",
+      "heading_level": null,
+      "page_id": 55,
+      "polygon": null
+    },
+    {
+      "title": "New Coterie Type",
+      "heading_level": null,
+      "page_id": 55,
+      "polygon": null
+    },
+    {
+      "title": "Nemeses",
+      "heading_level": null,
+      "page_id": 55,
+      "polygon": null
+    },
+    {
+      "title": "New Rituals",
+      "heading_level": null,
+      "page_id": 55,
+      "polygon": null
+    },
+    {
+      "title": "Level 1",
+      "heading_level": null,
+      "page_id": 55,
+      "polygon": null
+    },
+    {
+      "title": "Coax the Garden",
+      "heading_level": null,
+      "page_id": 55,
+      "polygon": null
+    },
+    {
+      "title": "Level 5",
+      "heading_level": null,
+      "page_id": 56,
+      "polygon": null
+    },
+    {
+      "title": "Eden’s Bounty",
+      "heading_level": null,
+      "page_id": 56,
+      "polygon": null
+    },
+    {
+      "title": "The Church of Caine",
+      "heading_level": null,
+      "page_id": 57,
+      "polygon": null
+    },
+    {
+      "title": "The Heresy Falls",
+      "heading_level": null,
+      "page_id": 58,
+      "polygon": null
+    },
+    {
+      "title": "The Heresy Rises",
+      "heading_level": null,
+      "page_id": 58,
+      "polygon": null
+    },
+    {
+      "title": "Hell on Earth",
+      "heading_level": null,
+      "page_id": 59,
+      "polygon": null
+    },
+    {
+      "title": "Sublimating Divinity into Society",
+      "heading_level": null,
+      "page_id": 59,
+      "polygon": null
+    },
+    {
+      "title": "Ad Limina",
+      "heading_level": null,
+      "page_id": 60,
+      "polygon": null
+    },
+    {
+      "title": "Church Hierarchy",
+      "heading_level": null,
+      "page_id": 61,
+      "polygon": null
+    },
+    {
+      "title": "Congregation / The Flock",
+      "heading_level": null,
+      "page_id": 61,
+      "polygon": null
+    },
+    {
+      "title": "Doorkeepers",
+      "heading_level": null,
+      "page_id": 61,
+      "polygon": null
+    },
+    {
+      "title": "Acolytes",
+      "heading_level": null,
+      "page_id": 61,
+      "polygon": null
+    },
+    {
+      "title": "Vergers",
+      "heading_level": null,
+      "page_id": 61,
+      "polygon": null
+    },
+    {
+      "title": "Lectors",
+      "heading_level": null,
+      "page_id": 62,
+      "polygon": null
+    },
+    {
+      "title": "Deacons",
+      "heading_level": null,
+      "page_id": 62,
+      "polygon": null
+    },
+    {
+      "title": "Priests / Church Leaders",
+      "heading_level": null,
+      "page_id": 62,
+      "polygon": null
+    },
+    {
+      "title": "Bishops",
+      "heading_level": null,
+      "page_id": 62,
+      "polygon": null
+    },
+    {
+      "title": "The Metropolitan",
+      "heading_level": null,
+      "page_id": 62,
+      "polygon": null
+    },
+    {
+      "title": "Church Dogma",
+      "heading_level": null,
+      "page_id": 62,
+      "polygon": null
+    },
+    {
+      "title": "Sacraments",
+      "heading_level": null,
+      "page_id": 64,
+      "polygon": null
+    },
+    {
+      "title": "The Sacrament of Valediction",
+      "heading_level": null,
+      "page_id": 64,
+      "polygon": null
+    },
+    {
+      "title": "The Sacrament of Exculpation",
+      "heading_level": null,
+      "page_id": 64,
+      "polygon": null
+    },
+    {
+      "title": "The Sacrament of Firewalking",
+      "heading_level": null,
+      "page_id": 64,
+      "polygon": null
+    },
+    {
+      "title": "Cainite Dominion: St. Louis",
+      "heading_level": null,
+      "page_id": 65,
+      "polygon": null
+    },
+    {
+      "title": "Perspectives",
+      "heading_level": null,
+      "page_id": 66,
+      "polygon": null
+    },
+    {
+      "title": "New Rituals",
+      "heading_level": null,
+      "page_id": 67,
+      "polygon": null
+    },
+    {
+      "title": "Level 1",
+      "heading_level": null,
+      "page_id": 67,
+      "polygon": null
+    },
+    {
+      "title": "Dampen the Fear",
+      "heading_level": null,
+      "page_id": 67,
+      "polygon": null
+    },
+    {
+      "title": "Level 3",
+      "heading_level": null,
+      "page_id": 67,
+      "polygon": null
+    },
+    {
+      "title": "Fire in the Blood",
+      "heading_level": null,
+      "page_id": 67,
+      "polygon": null
+    },
+    {
+      "title": "Level 5",
+      "heading_level": null,
+      "page_id": 67,
+      "polygon": null
+    },
+    {
+      "title": "Creatio Ignis",
+      "heading_level": null,
+      "page_id": 67,
+      "polygon": null
+    },
+    {
+      "title": "The Church of Set",
+      "heading_level": null,
+      "page_id": 68,
+      "polygon": null
+    },
+    {
+      "title": "The Chaos Cult",
+      "heading_level": null,
+      "page_id": 68,
+      "polygon": null
+    },
+    {
+      "title": "Church and State",
+      "heading_level": null,
+      "page_id": 68,
+      "polygon": null
+    },
+    {
+      "title": "The Clan of Lies",
+      "heading_level": null,
+      "page_id": 69,
+      "polygon": null
+    },
+    {
+      "title": "Divine Origins",
+      "heading_level": null,
+      "page_id": 70,
+      "polygon": null
+    },
+    {
+      "title": "A History in Whispers",
+      "heading_level": null,
+      "page_id": 71,
+      "polygon": null
+    },
+    {
+      "title": "More Modern Deceits",
+      "heading_level": null,
+      "page_id": 72,
+      "polygon": null
+    },
+    {
+      "title": "Snakes in Their Hidden Nests",
+      "heading_level": null,
+      "page_id": 72,
+      "polygon": null
+    },
+    {
+      "title": "Rituals of Liberation",
+      "heading_level": null,
+      "page_id": 73,
+      "polygon": null
+    },
+    {
+      "title": "The Lesser Mystery of Set",
+      "heading_level": null,
+      "page_id": 73,
+      "polygon": null
+    },
+    {
+      "title": "The Nine Gates",
+      "heading_level": null,
+      "page_id": 74,
+      "polygon": null
+    },
+    {
+      "title": "The Greater Mystery of Set",
+      "heading_level": null,
+      "page_id": 75,
+      "polygon": null
+    },
+    {
+      "title": "Beginning the Journey of the Faithful",
+      "heading_level": null,
+      "page_id": 75,
+      "polygon": null
+    },
+    {
+      "title": "The Later Hours of Night",
+      "heading_level": null,
+      "page_id": 76,
+      "polygon": null
+    },
+    {
+      "title": "On the Church of Set",
+      "heading_level": null,
+      "page_id": 78,
+      "polygon": null
+    },
+    {
+      "title": "Setite Temple: Kharkiv",
+      "heading_level": null,
+      "page_id": 79,
+      "polygon": null
+    },
+    {
+      "title": "Perspectives",
+      "heading_level": null,
+      "page_id": 80,
+      "polygon": null
+    },
+    {
+      "title": "Animals",
+      "heading_level": null,
+      "page_id": 81,
+      "polygon": null
+    },
+    {
+      "title": "Boa Constrictor",
+      "heading_level": null,
+      "page_id": 81,
+      "polygon": null
+    },
+    {
+      "title": "Cobra",
+      "heading_level": null,
+      "page_id": 81,
+      "polygon": null
+    },
+    {
+      "title": "Jackal",
+      "heading_level": null,
+      "page_id": 81,
+      "polygon": null
+    },
+    {
+      "title": "Oksana Koblenko “Proserpina”",
+      "heading_level": null,
+      "page_id": 81,
+      "polygon": null
+    },
+    {
+      "title": "New Coterie Type",
+      "heading_level": null,
+      "page_id": 84,
+      "polygon": null
+    },
+    {
+      "title": "Saboteurs",
+      "heading_level": null,
+      "page_id": 84,
+      "polygon": null
+    },
+    {
+      "title": "New Powers",
+      "heading_level": null,
+      "page_id": 84,
+      "polygon": null
+    },
+    {
+      "title": "Obfuscate",
+      "heading_level": null,
+      "page_id": 85,
+      "polygon": null
+    },
+    {
+      "title": "Level 3",
+      "heading_level": null,
+      "page_id": 85,
+      "polygon": null
+    },
+    {
+      "title": "Mental Maze",
+      "heading_level": null,
+      "page_id": 85,
+      "polygon": null
+    },
+    {
+      "title": "Presence",
+      "heading_level": null,
+      "page_id": 85,
+      "polygon": null
+    },
+    {
+      "title": "Level 3",
+      "heading_level": null,
+      "page_id": 85,
+      "polygon": null
+    },
+    {
+      "title": "True Love’s Face",
+      "heading_level": null,
+      "page_id": 85,
+      "polygon": null
+    },
+    {
+      "title": "Protean",
+      "heading_level": null,
+      "page_id": 85,
+      "polygon": null
+    },
+    {
+      "title": "Level 5",
+      "heading_level": null,
+      "page_id": 85,
+      "polygon": null
+    },
+    {
+      "title": "The Heart of Darkness",
+      "heading_level": null,
+      "page_id": 85,
+      "polygon": null
+    },
+    {
+      "title": "Cult of Shalim",
+      "heading_level": null,
+      "page_id": 86,
+      "polygon": null
+    },
+    {
+      "title": "Out of Nothing",
+      "heading_level": null,
+      "page_id": 86,
+      "polygon": null
+    },
+    {
+      "title": "The Flowering of the Abyss",
+      "heading_level": null,
+      "page_id": 87,
+      "polygon": null
+    },
+    {
+      "title": "Servants of the Abyss",
+      "heading_level": null,
+      "page_id": 87,
+      "polygon": null
+    },
+    {
+      "title": "Shalimite Rites",
+      "heading_level": null,
+      "page_id": 87,
+      "polygon": null
+    },
+    {
+      "title": "Gematria",
+      "heading_level": null,
+      "page_id": 87,
+      "polygon": null
+    },
+    {
+      "title": "Abyssal Consecration",
+      "heading_level": null,
+      "page_id": 88,
+      "polygon": null
+    },
+    {
+      "title": "Dark Purpose",
+      "heading_level": null,
+      "page_id": 88,
+      "polygon": null
+    },
+    {
+      "title": "Enemies",
+      "heading_level": null,
+      "page_id": 88,
+      "polygon": null
+    },
+    {
+      "title": "Artifacts and Symbology",
+      "heading_level": null,
+      "page_id": 89,
+      "polygon": null
+    },
+    {
+      "title": "Mortal Servants",
+      "heading_level": null,
+      "page_id": 89,
+      "polygon": null
+    },
+    {
+      "title": "Shalimite Operations: Fukuoka",
+      "heading_level": null,
+      "page_id": 89,
+      "polygon": null
+    },
+    {
+      "title": "Perspectives",
+      "heading_level": null,
+      "page_id": 90,
+      "polygon": null
+    },
+    {
+      "title": "“Porcelain” Patricia Montgomery",
+      "heading_level": null,
+      "page_id": 90,
+      "polygon": null
+    },
+    {
+      "title": "Ceremonies of Shalim",
+      "heading_level": null,
+      "page_id": 93,
+      "polygon": null
+    },
+    {
+      "title": "Level 1",
+      "heading_level": null,
+      "page_id": 93,
+      "polygon": null
+    },
+    {
+      "title": "Traveler’s Call",
+      "heading_level": null,
+      "page_id": 93,
+      "polygon": null
+    },
+    {
+      "title": "Level 3",
+      "heading_level": null,
+      "page_id": 94,
+      "polygon": null
+    },
+    {
+      "title": "Name of the Father",
+      "heading_level": null,
+      "page_id": 94,
+      "polygon": null
+    },
+    {
+      "title": "Level 5",
+      "heading_level": null,
+      "page_id": 94,
+      "polygon": null
+    },
+    {
+      "title": "Pit of Contemplation",
+      "heading_level": null,
+      "page_id": 94,
+      "polygon": null
+    },
+    {
+      "title": "The Mithraic Mysteries",
+      "heading_level": null,
+      "page_id": 95,
+      "polygon": null
+    },
+    {
+      "title": "From Persia to Rome",
+      "heading_level": null,
+      "page_id": 95,
+      "polygon": null
+    },
+    {
+      "title": "A London Renaissance",
+      "heading_level": null,
+      "page_id": 95,
+      "polygon": null
+    },
+    {
+      "title": "Mithra and the Bull",
+      "heading_level": null,
+      "page_id": 96,
+      "polygon": null
+    },
+    {
+      "title": "The London Blitz",
+      "heading_level": null,
+      "page_id": 96,
+      "polygon": null
+    },
+    {
+      "title": "Faces of the Bull God",
+      "heading_level": null,
+      "page_id": 97,
+      "polygon": null
+    },
+    {
+      "title": "Mithraist Ambition",
+      "heading_level": null,
+      "page_id": 97,
+      "polygon": null
+    },
+    {
+      "title": "Divine Mithras",
+      "heading_level": null,
+      "page_id": 98,
+      "polygon": null
+    },
+    {
+      "title": "An Underground Religion",
+      "heading_level": null,
+      "page_id": 99,
+      "polygon": null
+    },
+    {
+      "title": "The London Uncertainty",
+      "heading_level": null,
+      "page_id": 99,
+      "polygon": null
+    },
+    {
+      "title": "Celebrating the Bull God",
+      "heading_level": null,
+      "page_id": 99,
+      "polygon": null
+    },
+    {
+      "title": "Bull Running",
+      "heading_level": null,
+      "page_id": 99,
+      "polygon": null
+    },
+    {
+      "title": "Fertility Feasts",
+      "heading_level": null,
+      "page_id": 99,
+      "polygon": null
+    },
+    {
+      "title": "The Blood Equinox",
+      "heading_level": null,
+      "page_id": 100,
+      "polygon": null
+    },
+    {
+      "title": "The Blooding",
+      "heading_level": null,
+      "page_id": 100,
+      "polygon": null
+    },
+    {
+      "title": "Seven Steps to the Sun",
+      "heading_level": null,
+      "page_id": 100,
+      "polygon": null
+    },
+    {
+      "title": "The First Step: Corax, the Raven",
+      "heading_level": null,
+      "page_id": 100,
+      "polygon": null
+    },
+    {
+      "title": "The Second Step: Nymphus, the Bride",
+      "heading_level": null,
+      "page_id": 101,
+      "polygon": null
+    },
+    {
+      "title": "The Third Step: Miles, the Soldier",
+      "heading_level": null,
+      "page_id": 101,
+      "polygon": null
+    },
+    {
+      "title": "The Fourth Step: Leo, The Lion",
+      "heading_level": null,
+      "page_id": 101,
+      "polygon": null
+    },
+    {
+      "title": "The Fifth Step: Perses, the Persian",
+      "heading_level": null,
+      "page_id": 101,
+      "polygon": null
+    },
+    {
+      "title": "The Sixth Step: Heliodromus, the Courier of the Sun",
+      "heading_level": null,
+      "page_id": 101,
+      "polygon": null
+    },
+    {
+      "title": "The Seventh Step: Pater, the Father/Mother",
+      "heading_level": null,
+      "page_id": 102,
+      "polygon": null
+    },
+    {
+      "title": "Mithraeum: Edinburgh",
+      "heading_level": null,
+      "page_id": 102,
+      "polygon": null
+    },
+    {
+      "title": "Perspectives",
+      "heading_level": null,
+      "page_id": 104,
+      "polygon": null
+    },
+    {
+      "title": "New Powers",
+      "heading_level": null,
+      "page_id": 104,
+      "polygon": null
+    },
+    {
+      "title": "Dominate",
+      "heading_level": null,
+      "page_id": 104,
+      "polygon": null
+    },
+    {
+      "title": "Level 2",
+      "heading_level": null,
+      "page_id": 104,
+      "polygon": null
+    },
+    {
+      "title": "Slavish Devotion",
+      "heading_level": null,
+      "page_id": 104,
+      "polygon": null
+    },
+    {
+      "title": "Level 4",
+      "heading_level": null,
+      "page_id": 104,
+      "polygon": null
+    },
+    {
+      "title": "Ancestral Dominion",
+      "heading_level": null,
+      "page_id": 104,
+      "polygon": null
+    },
+    {
+      "title": "Fortitude",
+      "heading_level": null,
+      "page_id": 104,
+      "polygon": null
+    },
+    {
+      "title": "Level 4",
+      "heading_level": null,
+      "page_id": 104,
+      "polygon": null
+    },
+    {
+      "title": "Shatter",
+      "heading_level": null,
+      "page_id": 104,
+      "polygon": null
+    },
+    {
+      "title": "The Nephilim, Children of the Angel",
+      "heading_level": null,
+      "page_id": 105,
+      "polygon": null
+    },
+    {
+      "title": "The Unending Dream",
+      "heading_level": null,
+      "page_id": 105,
+      "polygon": null
+    },
+    {
+      "title": "The Seeds of the Garden",
+      "heading_level": null,
+      "page_id": 106,
+      "polygon": null
+    },
+    {
+      "title": "The Basilica of the Archangel",
+      "heading_level": null,
+      "page_id": 107,
+      "polygon": null
+    },
+    {
+      "title": "Lex Sanctorum Decis Angelorum",
+      "heading_level": null,
+      "page_id": 107,
+      "polygon": null
+    },
+    {
+      "title": "Places of Worship",
+      "heading_level": null,
+      "page_id": 108,
+      "polygon": null
+    },
+    {
+      "title": "Rites of Pleasure and Perfection",
+      "heading_level": null,
+      "page_id": 108,
+      "polygon": null
+    },
+    {
+      "title": "Limited Scope?",
+      "heading_level": null,
+      "page_id": 109,
+      "polygon": null
+    },
+    {
+      "title": "Enemies",
+      "heading_level": null,
+      "page_id": 109,
+      "polygon": null
+    },
+    {
+      "title": "Artifacts and Symbology",
+      "heading_level": null,
+      "page_id": 109,
+      "polygon": null
+    },
+    {
+      "title": "Mortal Adherents",
+      "heading_level": null,
+      "page_id": 109,
+      "polygon": null
+    },
+    {
+      "title": "Nephilim Dreams: Johannesburg",
+      "heading_level": null,
+      "page_id": 110,
+      "polygon": null
+    },
+    {
+      "title": "Perspectives",
+      "heading_level": null,
+      "page_id": 111,
+      "polygon": null
+    },
+    {
+      "title": "Anna Yusupova “Annatoliya”",
+      "heading_level": null,
+      "page_id": 111,
+      "polygon": null
+    },
+    {
+      "title": "Minor Cults",
+      "heading_level": null,
+      "page_id": 114,
+      "polygon": null
+    },
+    {
+      "title": "Amaranthans",
+      "heading_level": null,
+      "page_id": 114,
+      "polygon": null
+    },
+    {
+      "title": "Current Goals",
+      "heading_level": null,
+      "page_id": 114,
+      "polygon": null
+    },
+    {
+      "title": "Cleopatrans",
+      "heading_level": null,
+      "page_id": 115,
+      "polygon": null
+    },
+    {
+      "title": "Current Goals",
+      "heading_level": null,
+      "page_id": 116,
+      "polygon": null
+    },
+    {
+      "title": "The Cult of Isis",
+      "heading_level": null,
+      "page_id": 116,
+      "polygon": null
+    },
+    {
+      "title": "Current Goals",
+      "heading_level": null,
+      "page_id": 116,
+      "polygon": null
+    },
+    {
+      "title": "Eyes of Malakai",
+      "heading_level": null,
+      "page_id": 116,
+      "polygon": null
+    },
+    {
+      "title": "Current Goals",
+      "heading_level": null,
+      "page_id": 117,
+      "polygon": null
+    },
+    {
+      "title": "Gorgo’s Nest",
+      "heading_level": null,
+      "page_id": 118,
+      "polygon": null
+    },
+    {
+      "title": "Current Goals",
+      "heading_level": null,
+      "page_id": 118,
+      "polygon": null
+    },
+    {
+      "title": "Los Hijos de Si",
+      "heading_level": null,
+      "page_id": 118,
+      "polygon": null
+    },
+    {
+      "title": "Current Goals",
+      "heading_level": null,
+      "page_id": 119,
+      "polygon": null
+    },
+    {
+      "title": "Sons and Daughters of Helena",
+      "heading_level": null,
+      "page_id": 120,
+      "polygon": null
+    },
+    {
+      "title": "Current Goals",
+      "heading_level": null,
+      "page_id": 120,
+      "polygon": null
+    },
+    {
+      "title": "The Meneleans",
+      "heading_level": null,
+      "page_id": 120,
+      "polygon": null
+    },
+    {
+      "title": "Current Goals",
+      "heading_level": null,
+      "page_id": 121,
+      "polygon": null
+    },
+    {
+      "title": "The One True Way",
+      "heading_level": null,
+      "page_id": 121,
+      "polygon": null
+    },
+    {
+      "title": "Current Goals",
+      "heading_level": null,
+      "page_id": 121,
+      "polygon": null
+    },
+    {
+      "title": "Servitors of Irad",
+      "heading_level": null,
+      "page_id": 122,
+      "polygon": null
+    },
+    {
+      "title": "Current Goals",
+      "heading_level": null,
+      "page_id": 122,
+      "polygon": null
+    },
+    {
+      "title": "One of Us",
+      "heading_level": null,
+      "page_id": 125,
+      "polygon": null
+    },
+    {
+      "title": "Chapter Three: The Cult of Death and Undeath",
+      "heading_level": null,
+      "page_id": 125,
+      "polygon": null
+    },
+    {
+      "title": "One of Us",
+      "heading_level": null,
+      "page_id": 125,
+      "polygon": null
+    },
+    {
+      "title": "The Underworld",
+      "heading_level": null,
+      "page_id": 126,
+      "polygon": null
+    },
+    {
+      "title": "Masks and Murder and Plot",
+      "heading_level": null,
+      "page_id": 126,
+      "polygon": null
+    },
+    {
+      "title": "…That You Do So Well",
+      "heading_level": null,
+      "page_id": 127,
+      "polygon": null
+    },
+    {
+      "title": "Death Always Comes In Threes",
+      "heading_level": null,
+      "page_id": 128,
+      "polygon": null
+    },
+    {
+      "title": "The Family Reunion",
+      "heading_level": null,
+      "page_id": 129,
+      "polygon": null
+    },
+    {
+      "title": "The Other Side",
+      "heading_level": null,
+      "page_id": 130,
+      "polygon": null
+    },
+    {
+      "title": "The Capuchin",
+      "heading_level": null,
+      "page_id": 131,
+      "polygon": null
+    },
+    {
+      "title": "The Giovanni Role",
+      "heading_level": null,
+      "page_id": 132,
+      "polygon": null
+    },
+    {
+      "title": "The Purge",
+      "heading_level": null,
+      "page_id": 132,
+      "polygon": null
+    },
+    {
+      "title": "A New Broom",
+      "heading_level": null,
+      "page_id": 133,
+      "polygon": null
+    },
+    {
+      "title": "The Establishment",
+      "heading_level": null,
+      "page_id": 133,
+      "polygon": null
+    },
+    {
+      "title": "The Family’s Goals",
+      "heading_level": null,
+      "page_id": 134,
+      "polygon": null
+    },
+    {
+      "title": "Family Business",
+      "heading_level": null,
+      "page_id": 134,
+      "polygon": null
+    },
+    {
+      "title": "Dealing with the Authorities",
+      "heading_level": null,
+      "page_id": 134,
+      "polygon": null
+    },
+    {
+      "title": "The Harbinger Role",
+      "heading_level": null,
+      "page_id": 135,
+      "polygon": null
+    },
+    {
+      "title": "The Timeline",
+      "heading_level": null,
+      "page_id": 135,
+      "polygon": null
+    },
+    {
+      "title": "New Blood in an Ancient Clan",
+      "heading_level": null,
+      "page_id": 136,
+      "polygon": null
+    },
+    {
+      "title": "Dead Aim",
+      "heading_level": null,
+      "page_id": 137,
+      "polygon": null
+    },
+    {
+      "title": "Factionalism",
+      "heading_level": null,
+      "page_id": 137,
+      "polygon": null
+    },
+    {
+      "title": "Plans for the Giovanni",
+      "heading_level": null,
+      "page_id": 137,
+      "polygon": null
+    },
+    {
+      "title": "Plans for the Samedi",
+      "heading_level": null,
+      "page_id": 138,
+      "polygon": null
+    },
+    {
+      "title": "Hierarchy and Strains",
+      "heading_level": null,
+      "page_id": 138,
+      "polygon": null
+    },
+    {
+      "title": "The Samedi Role",
+      "heading_level": null,
+      "page_id": 138,
+      "polygon": null
+    },
+    {
+      "title": "Setting Down Religion",
+      "heading_level": null,
+      "page_id": 138,
+      "polygon": null
+    },
+    {
+      "title": "Religious Practice",
+      "heading_level": null,
+      "page_id": 139,
+      "polygon": null
+    },
+    {
+      "title": "New to the Rot",
+      "heading_level": null,
+      "page_id": 139,
+      "polygon": null
+    },
+    {
+      "title": "Shifting Tides of Necromancy",
+      "heading_level": null,
+      "page_id": 140,
+      "polygon": null
+    },
+    {
+      "title": "The Role of Others",
+      "heading_level": null,
+      "page_id": 141,
+      "polygon": null
+    },
+    {
+      "title": "The Lamiae",
+      "heading_level": null,
+      "page_id": 141,
+      "polygon": null
+    },
+    {
+      "title": "The Cappadocians",
+      "heading_level": null,
+      "page_id": 141,
+      "polygon": null
+    },
+    {
+      "title": "The Nagaraja",
+      "heading_level": null,
+      "page_id": 142,
+      "polygon": null
+    },
+    {
+      "title": "And More Besides",
+      "heading_level": null,
+      "page_id": 142,
+      "polygon": null
+    },
+    {
+      "title": "The Family Hierarchy",
+      "heading_level": null,
+      "page_id": 143,
+      "polygon": null
+    },
+    {
+      "title": "Who’s Your Daddy?",
+      "heading_level": null,
+      "page_id": 143,
+      "polygon": null
+    },
+    {
+      "title": "The Families",
+      "heading_level": null,
+      "page_id": 144,
+      "polygon": null
+    },
+    {
+      "title": "Coterie or Family Tree?",
+      "heading_level": null,
+      "page_id": 144,
+      "polygon": null
+    },
+    {
+      "title": "Outward Facing Operations",
+      "heading_level": null,
+      "page_id": 145,
+      "polygon": null
+    },
+    {
+      "title": "The Venetian Ladder",
+      "heading_level": null,
+      "page_id": 146,
+      "polygon": null
+    },
+    {
+      "title": "The Anziani Council",
+      "heading_level": null,
+      "page_id": 146,
+      "polygon": null
+    },
+    {
+      "title": "The 1444 Chamber",
+      "heading_level": null,
+      "page_id": 147,
+      "polygon": null
+    },
+    {
+      "title": "The Endless Night",
+      "heading_level": null,
+      "page_id": 147,
+      "polygon": null
+    },
+    {
+      "title": "Perspectives on Kindred Religions",
+      "heading_level": null,
+      "page_id": 147,
+      "polygon": null
+    },
+    {
+      "title": "A Unique Cult",
+      "heading_level": null,
+      "page_id": 148,
+      "polygon": null
+    },
+    {
+      "title": "Hecata Chronicles",
+      "heading_level": null,
+      "page_id": 149,
+      "polygon": null
+    },
+    {
+      "title": "New Coterie Types",
+      "heading_level": null,
+      "page_id": 150,
+      "polygon": null
+    },
+    {
+      "title": "Family",
+      "heading_level": null,
+      "page_id": 150,
+      "polygon": null
+    },
+    {
+      "title": "Gatekeepers",
+      "heading_level": null,
+      "page_id": 150,
+      "polygon": null
+    },
+    {
+      "title": "New Predator Types",
+      "heading_level": null,
+      "page_id": 150,
+      "polygon": null
+    },
+    {
+      "title": "Extortionist",
+      "heading_level": null,
+      "page_id": 150,
+      "polygon": null
+    },
+    {
+      "title": "Graverobber",
+      "heading_level": null,
+      "page_id": 150,
+      "polygon": null
+    },
+    {
+      "title": "Chapter Four: Mortal Cults",
+      "heading_level": null,
+      "page_id": 153,
+      "polygon": null
+    },
+    {
+      "title": "The House of Anteros",
+      "heading_level": null,
+      "page_id": 154,
+      "polygon": null
+    },
+    {
+      "title": "History",
+      "heading_level": null,
+      "page_id": 154,
+      "polygon": null
+    },
+    {
+      "title": "Doctrine",
+      "heading_level": null,
+      "page_id": 154,
+      "polygon": null
+    },
+    {
+      "title": "What is Love?",
+      "heading_level": null,
+      "page_id": 154,
+      "polygon": null
+    },
+    {
+      "title": "Activities",
+      "heading_level": null,
+      "page_id": 154,
+      "polygon": null
+    },
+    {
+      "title": "Future Plans",
+      "heading_level": null,
+      "page_id": 156,
+      "polygon": null
+    },
+    {
+      "title": "Annabelle Jones",
+      "heading_level": null,
+      "page_id": 156,
+      "polygon": null
+    },
+    {
+      "title": "Jacob Wrightson",
+      "heading_level": null,
+      "page_id": 156,
+      "polygon": null
+    },
+    {
+      "title": "Alyson King",
+      "heading_level": null,
+      "page_id": 156,
+      "polygon": null
+    },
+    {
+      "title": "The Eaden Family",
+      "heading_level": null,
+      "page_id": 156,
+      "polygon": null
+    },
+    {
+      "title": "Virginia Eaden",
+      "heading_level": null,
+      "page_id": 157,
+      "polygon": null
+    },
+    {
+      "title": "Leonard Eaden",
+      "heading_level": null,
+      "page_id": 157,
+      "polygon": null
+    },
+    {
+      "title": "Story Hook: Love in Death",
+      "heading_level": null,
+      "page_id": 157,
+      "polygon": null
+    },
+    {
+      "title": "The Church of Means",
+      "heading_level": null,
+      "page_id": 158,
+      "polygon": null
+    },
+    {
+      "title": "History",
+      "heading_level": null,
+      "page_id": 158,
+      "polygon": null
+    },
+    {
+      "title": "Doctrine",
+      "heading_level": null,
+      "page_id": 158,
+      "polygon": null
+    },
+    {
+      "title": "Activities",
+      "heading_level": null,
+      "page_id": 159,
+      "polygon": null
+    },
+    {
+      "title": "Future Plans",
+      "heading_level": null,
+      "page_id": 160,
+      "polygon": null
+    },
+    {
+      "title": "Millicent Jarvey",
+      "heading_level": null,
+      "page_id": 160,
+      "polygon": null
+    },
+    {
+      "title": "Morgan Brant",
+      "heading_level": null,
+      "page_id": 160,
+      "polygon": null
+    },
+    {
+      "title": "Malik Lugo",
+      "heading_level": null,
+      "page_id": 160,
+      "polygon": null
+    },
+    {
+      "title": "Joseph Dominguez",
+      "heading_level": null,
+      "page_id": 161,
+      "polygon": null
+    },
+    {
+      "title": "Story Hook: Financial Drain",
+      "heading_level": null,
+      "page_id": 162,
+      "polygon": null
+    },
+    {
+      "title": "Leah’s Circle",
+      "heading_level": null,
+      "page_id": 162,
+      "polygon": null
+    },
+    {
+      "title": "History",
+      "heading_level": null,
+      "page_id": 162,
+      "polygon": null
+    },
+    {
+      "title": "Doctrine",
+      "heading_level": null,
+      "page_id": 163,
+      "polygon": null
+    },
+    {
+      "title": "Activities",
+      "heading_level": null,
+      "page_id": 163,
+      "polygon": null
+    },
+    {
+      "title": "Future Plans",
+      "heading_level": null,
+      "page_id": 164,
+      "polygon": null
+    },
+    {
+      "title": "Jake “Diabolic” Martins",
+      "heading_level": null,
+      "page_id": 164,
+      "polygon": null
+    },
+    {
+      "title": "Mika Bittermann",
+      "heading_level": null,
+      "page_id": 164,
+      "polygon": null
+    },
+    {
+      "title": "Melissa “Razor” Thomson",
+      "heading_level": null,
+      "page_id": 164,
+      "polygon": null
+    },
+    {
+      "title": "Leah",
+      "heading_level": null,
+      "page_id": 165,
+      "polygon": null
+    },
+    {
+      "title": "Story Hook: Mugging Gone Wrong",
+      "heading_level": null,
+      "page_id": 165,
+      "polygon": null
+    },
+    {
+      "title": "The Dread Cult of Eligos",
+      "heading_level": null,
+      "page_id": 166,
+      "polygon": null
+    },
+    {
+      "title": "History",
+      "heading_level": null,
+      "page_id": 166,
+      "polygon": null
+    },
+    {
+      "title": "Doctrine",
+      "heading_level": null,
+      "page_id": 166,
+      "polygon": null
+    },
+    {
+      "title": "Activities",
+      "heading_level": null,
+      "page_id": 166,
+      "polygon": null
+    },
+    {
+      "title": "Future Plans",
+      "heading_level": null,
+      "page_id": 167,
+      "polygon": null
+    },
+    {
+      "title": "Amy Montague",
+      "heading_level": null,
+      "page_id": 168,
+      "polygon": null
+    },
+    {
+      "title": "Jaden Michaels",
+      "heading_level": null,
+      "page_id": 168,
+      "polygon": null
+    },
+    {
+      "title": "Franklin Bryant",
+      "heading_level": null,
+      "page_id": 168,
+      "polygon": null
+    },
+    {
+      "title": "Rupert Brant",
+      "heading_level": null,
+      "page_id": 168,
+      "polygon": null
+    },
+    {
+      "title": "Teresa Miles",
+      "heading_level": null,
+      "page_id": 168,
+      "polygon": null
+    },
+    {
+      "title": "Story Hook: Eligos’ Breach",
+      "heading_level": null,
+      "page_id": 169,
+      "polygon": null
+    },
+    {
+      "title": "The Order of the Broken Branch",
+      "heading_level": null,
+      "page_id": 169,
+      "polygon": null
+    },
+    {
+      "title": "History",
+      "heading_level": null,
+      "page_id": 169,
+      "polygon": null
+    },
+    {
+      "title": "Doctrine",
+      "heading_level": null,
+      "page_id": 170,
+      "polygon": null
+    },
+    {
+      "title": "Activities",
+      "heading_level": null,
+      "page_id": 170,
+      "polygon": null
+    },
+    {
+      "title": "Future Plans",
+      "heading_level": null,
+      "page_id": 170,
+      "polygon": null
+    },
+    {
+      "title": "Margaret Thales",
+      "heading_level": null,
+      "page_id": 171,
+      "polygon": null
+    },
+    {
+      "title": "Samantha Watts",
+      "heading_level": null,
+      "page_id": 171,
+      "polygon": null
+    },
+    {
+      "title": "Edward H. Sullivan",
+      "heading_level": null,
+      "page_id": 171,
+      "polygon": null
+    },
+    {
+      "title": "Story Hook: God’s Weapons",
+      "heading_level": null,
+      "page_id": 171,
+      "polygon": null
+    },
+    {
+      "title": "Other Cults",
+      "heading_level": null,
+      "page_id": 172,
+      "polygon": null
+    },
+    {
+      "title": "Chapter Five: Cult Construction",
+      "heading_level": null,
+      "page_id": 175,
+      "polygon": null
+    },
+    {
+      "title": "The Act of Creation",
+      "heading_level": null,
+      "page_id": 175,
+      "polygon": null
+    },
+    {
+      "title": "How to Build a Cult",
+      "heading_level": null,
+      "page_id": 176,
+      "polygon": null
+    },
+    {
+      "title": "The Basics",
+      "heading_level": null,
+      "page_id": 177,
+      "polygon": null
+    },
+    {
+      "title": "Belief",
+      "heading_level": null,
+      "page_id": 178,
+      "polygon": null
+    },
+    {
+      "title": "Ancestral Worship",
+      "heading_level": null,
+      "page_id": 178,
+      "polygon": null
+    },
+    {
+      "title": "Secular Values",
+      "heading_level": null,
+      "page_id": 178,
+      "polygon": null
+    },
+    {
+      "title": "Heresies",
+      "heading_level": null,
+      "page_id": 179,
+      "polygon": null
+    },
+    {
+      "title": "Mandates",
+      "heading_level": null,
+      "page_id": 179,
+      "polygon": null
+    },
+    {
+      "title": "You Shall…",
+      "heading_level": null,
+      "page_id": 179,
+      "polygon": null
+    },
+    {
+      "title": "You Shall Not…",
+      "heading_level": null,
+      "page_id": 179,
+      "polygon": null
+    },
+    {
+      "title": "The First Rule of Vampire Club",
+      "heading_level": null,
+      "page_id": 179,
+      "polygon": null
+    },
+    {
+      "title": "Hierarchy",
+      "heading_level": null,
+      "page_id": 179,
+      "polygon": null
+    },
+    {
+      "title": "Laity",
+      "heading_level": null,
+      "page_id": 179,
+      "polygon": null
+    },
+    {
+      "title": "Initiate",
+      "heading_level": null,
+      "page_id": 180,
+      "polygon": null
+    },
+    {
+      "title": "Acolyte",
+      "heading_level": null,
+      "page_id": 180,
+      "polygon": null
+    },
+    {
+      "title": "Clergy",
+      "heading_level": null,
+      "page_id": 180,
+      "polygon": null
+    },
+    {
+      "title": "Prophets",
+      "heading_level": null,
+      "page_id": 181,
+      "polygon": null
+    },
+    {
+      "title": "Cult Practices",
+      "heading_level": null,
+      "page_id": 181,
+      "polygon": null
+    },
+    {
+      "title": "Scripture",
+      "heading_level": null,
+      "page_id": 181,
+      "polygon": null
+    },
+    {
+      "title": "Relics",
+      "heading_level": null,
+      "page_id": 181,
+      "polygon": null
+    },
+    {
+      "title": "Services",
+      "heading_level": null,
+      "page_id": 181,
+      "polygon": null
+    },
+    {
+      "title": "Apparel",
+      "heading_level": null,
+      "page_id": 181,
+      "polygon": null
+    },
+    {
+      "title": "Rituals",
+      "heading_level": null,
+      "page_id": 182,
+      "polygon": null
+    },
+    {
+      "title": "Holidays",
+      "heading_level": null,
+      "page_id": 182,
+      "polygon": null
+    },
+    {
+      "title": "Lunar",
+      "heading_level": null,
+      "page_id": 182,
+      "polygon": null
+    },
+    {
+      "title": "Historic",
+      "heading_level": null,
+      "page_id": 182,
+      "polygon": null
+    },
+    {
+      "title": "Seasonal",
+      "heading_level": null,
+      "page_id": 182,
+      "polygon": null
+    },
+    {
+      "title": "Methods of Recruitment",
+      "heading_level": null,
+      "page_id": 183,
+      "polygon": null
+    },
+    {
+      "title": "The Desperate",
+      "heading_level": null,
+      "page_id": 183,
+      "polygon": null
+    },
+    {
+      "title": "The Driven",
+      "heading_level": null,
+      "page_id": 183,
+      "polygon": null
+    },
+    {
+      "title": "A Letter from Laylah Froud of the Bahari",
+      "heading_level": null,
+      "page_id": 183,
+      "polygon": null
+    },
+    {
+      "title": "The Indulgent",
+      "heading_level": null,
+      "page_id": 184,
+      "polygon": null
+    },
+    {
+      "title": "Places of Worship",
+      "heading_level": null,
+      "page_id": 184,
+      "polygon": null
+    },
+    {
+      "title": "The Temple",
+      "heading_level": null,
+      "page_id": 184,
+      "polygon": null
+    },
+    {
+      "title": "Historic Site",
+      "heading_level": null,
+      "page_id": 184,
+      "polygon": null
+    },
+    {
+      "title": "Anywhere and Nowhere",
+      "heading_level": null,
+      "page_id": 184,
+      "polygon": null
+    },
+    {
+      "title": "Quick Cult Creation",
+      "heading_level": null,
+      "page_id": 184,
+      "polygon": null
+    },
+    {
+      "title": "Backgrounds",
+      "heading_level": null,
+      "page_id": 184,
+      "polygon": null
+    },
+    {
+      "title": "Allies",
+      "heading_level": null,
+      "page_id": 184,
+      "polygon": null
+    },
+    {
+      "title": "Contacts",
+      "heading_level": null,
+      "page_id": 185,
+      "polygon": null
+    },
+    {
+      "title": "Influence",
+      "heading_level": null,
+      "page_id": 185,
+      "polygon": null
+    },
+    {
+      "title": "Haven",
+      "heading_level": null,
+      "page_id": 185,
+      "polygon": null
+    },
+    {
+      "title": "A Letter from Khaled al-Fakhani of the Church of Set",
+      "heading_level": null,
+      "page_id": 186,
+      "polygon": null
+    },
+    {
+      "title": "Mawla",
+      "heading_level": null,
+      "page_id": 187,
+      "polygon": null
+    },
+    {
+      "title": "Cult Names",
+      "heading_level": null,
+      "page_id": 187,
+      "polygon": null
+    },
+    {
+      "title": "Colors",
+      "heading_level": null,
+      "page_id": 189,
+      "polygon": null
+    },
+    {
+      "title": "Creatures",
+      "heading_level": null,
+      "page_id": 190,
+      "polygon": null
+    },
+    {
+      "title": "Basic Cult Descriptions",
+      "heading_level": null,
+      "page_id": 191,
+      "polygon": null
+    },
+    {
+      "title": "Sample Cult Members",
+      "heading_level": null,
+      "page_id": 193,
+      "polygon": null
+    },
+    {
+      "title": "Mortals",
+      "heading_level": null,
+      "page_id": 193,
+      "polygon": null
+    },
+    {
+      "title": "Vampires",
+      "heading_level": null,
+      "page_id": 194,
+      "polygon": null
+    },
+    {
+      "title": "Sample Cult: The Order of Taweret",
+      "heading_level": null,
+      "page_id": 194,
+      "polygon": null
+    },
+    {
+      "title": "New Coterie Types",
+      "heading_level": null,
+      "page_id": 195,
+      "polygon": null
+    },
+    {
+      "title": "Envoys",
+      "heading_level": null,
+      "page_id": 195,
+      "polygon": null
+    },
+    {
+      "title": "Think Tank",
+      "heading_level": null,
+      "page_id": 195,
+      "polygon": null
+    },
+    {
+      "title": "An Accord Between Faiths",
+      "heading_level": null,
+      "page_id": 196,
+      "polygon": null
+    },
+    {
+      "title": "Chapter Six: Hecata",
+      "heading_level": null,
+      "page_id": 199,
+      "polygon": null
+    },
+    {
+      "title": "Who are the Hecata?",
+      "heading_level": null,
+      "page_id": 200,
+      "polygon": null
+    },
+    {
+      "title": "Hecata Archetypes",
+      "heading_level": null,
+      "page_id": 201,
+      "polygon": null
+    },
+    {
+      "title": "Champion Bullshitter",
+      "heading_level": null,
+      "page_id": 201,
+      "polygon": null
+    },
+    {
+      "title": "Forensic Specialist",
+      "heading_level": null,
+      "page_id": 201,
+      "polygon": null
+    },
+    {
+      "title": "Natural Necromancer",
+      "heading_level": null,
+      "page_id": 201,
+      "polygon": null
+    },
+    {
+      "title": "Prodigal Child",
+      "heading_level": null,
+      "page_id": 202,
+      "polygon": null
+    },
+    {
+      "title": "Unscrupulous Banker",
+      "heading_level": null,
+      "page_id": 202,
+      "polygon": null
+    },
+    {
+      "title": "Disciplines",
+      "heading_level": null,
+      "page_id": 202,
+      "polygon": null
+    },
+    {
+      "title": "Compulsion",
+      "heading_level": null,
+      "page_id": 202,
+      "polygon": null
+    },
+    {
+      "title": "Hecata: Morbidity",
+      "heading_level": null,
+      "page_id": 202,
+      "polygon": null
+    },
+    {
+      "title": "Bane",
+      "heading_level": null,
+      "page_id": 203,
+      "polygon": null
+    },
+    {
+      "title": "Feeding Methods",
+      "heading_level": null,
+      "page_id": 203,
+      "polygon": null
+    },
+    {
+      "title": "Oblivion",
+      "heading_level": null,
+      "page_id": 203,
+      "polygon": null
+    },
+    {
+      "title": "Characteristics",
+      "heading_level": null,
+      "page_id": 203,
+      "polygon": null
+    },
+    {
+      "title": "Level 1",
+      "heading_level": null,
+      "page_id": 204,
+      "polygon": null
+    },
+    {
+      "title": "Ashes to Ashes",
+      "heading_level": null,
+      "page_id": 204,
+      "polygon": null
+    },
+    {
+      "title": "The Binding Fetter",
+      "heading_level": null,
+      "page_id": 204,
+      "polygon": null
+    },
+    {
+      "title": "Level 2",
+      "heading_level": null,
+      "page_id": 204,
+      "polygon": null
+    },
+    {
+      "title": "Fatal Precognition",
+      "heading_level": null,
+      "page_id": 204,
+      "polygon": null
+    },
+    {
+      "title": "Where the Shroud Thins",
+      "heading_level": null,
+      "page_id": 205,
+      "polygon": null
+    },
+    {
+      "title": "Level 3",
+      "heading_level": null,
+      "page_id": 205,
+      "polygon": null
+    },
+    {
+      "title": "Aura of Decay",
+      "heading_level": null,
+      "page_id": 205,
+      "polygon": null
+    },
+    {
+      "title": "Passion Feast",
+      "heading_level": null,
+      "page_id": 206,
+      "polygon": null
+    },
+    {
+      "title": "Level 4",
+      "heading_level": null,
+      "page_id": 206,
+      "polygon": null
+    },
+    {
+      "title": "Necrotic Plague",
+      "heading_level": null,
+      "page_id": 206,
+      "polygon": null
+    },
+    {
+      "title": "Level 5",
+      "heading_level": null,
+      "page_id": 207,
+      "polygon": null
+    },
+    {
+      "title": "Skuld Fulfilled",
+      "heading_level": null,
+      "page_id": 207,
+      "polygon": null
+    },
+    {
+      "title": "Withering Spirit",
+      "heading_level": null,
+      "page_id": 208,
+      "polygon": null
+    },
+    {
+      "title": "Oblivion Ceremonies",
+      "heading_level": null,
+      "page_id": 208,
+      "polygon": null
+    },
+    {
+      "title": "Level 1",
+      "heading_level": null,
+      "page_id": 208,
+      "polygon": null
+    },
+    {
+      "title": "The Gift of False Life",
+      "heading_level": null,
+      "page_id": 208,
+      "polygon": null
+    },
+    {
+      "title": "Mindless Corpse",
+      "heading_level": null,
+      "page_id": 208,
+      "polygon": null
+    },
+    {
+      "title": "Summon Spirit",
+      "heading_level": null,
+      "page_id": 209,
+      "polygon": null
+    },
+    {
+      "title": "Level 2",
+      "heading_level": null,
+      "page_id": 209,
+      "polygon": null
+    },
+    {
+      "title": "Awaken the Homuncular Servant",
+      "heading_level": null,
+      "page_id": 209,
+      "polygon": null
+    },
+    {
+      "title": "Homuncular Servant",
+      "heading_level": null,
+      "page_id": 210,
+      "polygon": null
+    },
+    {
+      "title": "Compel Spirit",
+      "heading_level": null,
+      "page_id": 210,
+      "polygon": null
+    },
+    {
+      "title": "Level 3",
+      "heading_level": null,
+      "page_id": 211,
+      "polygon": null
+    },
+    {
+      "title": "Host Spirit",
+      "heading_level": null,
+      "page_id": 211,
+      "polygon": null
+    },
+    {
+      "title": "Shambling Hordes",
+      "heading_level": null,
+      "page_id": 212,
+      "polygon": null
+    },
+    {
+      "title": "Aggressive Corpse",
+      "heading_level": null,
+      "page_id": 212,
+      "polygon": null
+    },
+    {
+      "title": "Level 4",
+      "heading_level": null,
+      "page_id": 212,
+      "polygon": null
+    },
+    {
+      "title": "Bind the Spirit",
+      "heading_level": null,
+      "page_id": 212,
+      "polygon": null
+    },
+    {
+      "title": "Split the Shroud",
+      "heading_level": null,
+      "page_id": 213,
+      "polygon": null
+    },
+    {
+      "title": "Level 5",
+      "heading_level": null,
+      "page_id": 213,
+      "polygon": null
+    },
+    {
+      "title": "Ex Nihilo",
+      "heading_level": null,
+      "page_id": 213,
+      "polygon": null
+    },
+    {
+      "title": "Lazarene Blessing",
+      "heading_level": null,
+      "page_id": 214,
+      "polygon": null
+    },
+    {
+      "title": "Life in the Underworld",
+      "heading_level": null,
+      "page_id": 215,
+      "polygon": null
+    },
+    {
+      "title": "Ghost in the Machine",
+      "heading_level": null,
+      "page_id": 216,
+      "polygon": null
+    },
+    {
+      "title": "Poltergeist",
+      "heading_level": null,
+      "page_id": 216,
+      "polygon": null
+    },
+    {
+      "title": "Puppeteer",
+      "heading_level": null,
+      "page_id": 216,
+      "polygon": null
+    },
+    {
+      "title": "Screamer",
+      "heading_level": null,
+      "page_id": 216,
+      "polygon": null
+    },
+    {
+      "title": "Chapter Seven: Bloodlines and Loresheets",
+      "heading_level": null,
+      "page_id": 219,
+      "polygon": null
+    },
+    {
+      "title": "Bloodlines",
+      "heading_level": null,
+      "page_id": 219,
+      "polygon": null
+    },
+    {
+      "title": "Loresheets",
+      "heading_level": null,
+      "page_id": 228,
+      "polygon": null
+    },
+    {
+      "title": "Chapter Eight: Styx and Bones",
+      "heading_level": null,
+      "page_id": 233,
+      "polygon": null
+    },
+    {
+      "title": "Introduction",
+      "heading_level": null,
+      "page_id": 233,
+      "polygon": null
+    },
+    {
+      "title": "München mag Dich (Munich Loves You)",
+      "heading_level": null,
+      "page_id": 234,
+      "polygon": null
+    },
+    {
+      "title": "Where the Bodies Are Buried",
+      "heading_level": null,
+      "page_id": 235,
+      "polygon": null
+    },
+    {
+      "title": "Die Heimliche Hauptstadt (The Secret Capital)",
+      "heading_level": null,
+      "page_id": 236,
+      "polygon": null
+    },
+    {
+      "title": "Prologue: A Family Dinner",
+      "heading_level": null,
+      "page_id": 238,
+      "polygon": null
+    },
+    {
+      "title": "Chapter One: Body of Lies",
+      "heading_level": null,
+      "page_id": 239,
+      "polygon": null
+    },
+    {
+      "title": "Handout #1: The Auction Invitation",
+      "heading_level": null,
+      "page_id": 239,
+      "polygon": null
+    },
+    {
+      "title": "Handout #2: Günter Hildebrant Dossier",
+      "heading_level": null,
+      "page_id": 240,
+      "polygon": null
+    },
+    {
+      "title": "The Auction",
+      "heading_level": null,
+      "page_id": 241,
+      "polygon": null
+    },
+    {
+      "title": "Coterie Options",
+      "heading_level": null,
+      "page_id": 241,
+      "polygon": null
+    },
+    {
+      "title": "Approaching Günter Hildebrant",
+      "heading_level": null,
+      "page_id": 242,
+      "polygon": null
+    },
+    {
+      "title": "Coterie Options",
+      "heading_level": null,
+      "page_id": 242,
+      "polygon": null
+    },
+    {
+      "title": "The Ritual",
+      "heading_level": null,
+      "page_id": 243,
+      "polygon": null
+    },
+    {
+      "title": "Chapter Two: Grave Digging",
+      "heading_level": null,
+      "page_id": 243,
+      "polygon": null
+    },
+    {
+      "title": "Exploring the City",
+      "heading_level": null,
+      "page_id": 243,
+      "polygon": null
+    },
+    {
+      "title": "PermanentLodgings",
+      "heading_level": null,
+      "page_id": 244,
+      "polygon": null
+    },
+    {
+      "title": "The First Nightmare",
+      "heading_level": null,
+      "page_id": 244,
+      "polygon": null
+    },
+    {
+      "title": "Under Arrest",
+      "heading_level": null,
+      "page_id": 245,
+      "polygon": null
+    },
+    {
+      "title": "Threats and Rumors",
+      "heading_level": null,
+      "page_id": 246,
+      "polygon": null
+    },
+    {
+      "title": "Clan Advice",
+      "heading_level": null,
+      "page_id": 246,
+      "polygon": null
+    },
+    {
+      "title": "Investigating the First Attack",
+      "heading_level": null,
+      "page_id": 247,
+      "polygon": null
+    },
+    {
+      "title": "Chapter Three: The Price We Pay",
+      "heading_level": null,
+      "page_id": 247,
+      "polygon": null
+    },
+    {
+      "title": "The Second Nightmare",
+      "heading_level": null,
+      "page_id": 248,
+      "polygon": null
+    },
+    {
+      "title": "Investigating the Second Attack",
+      "heading_level": null,
+      "page_id": 248,
+      "polygon": null
+    },
+    {
+      "title": "Getting to Know the Cult of Mithras",
+      "heading_level": null,
+      "page_id": 249,
+      "polygon": null
+    },
+    {
+      "title": "Threats and Attacks",
+      "heading_level": null,
+      "page_id": 251,
+      "polygon": null
+    },
+    {
+      "title": "Chapter Four: A Family Affair",
+      "heading_level": null,
+      "page_id": 251,
+      "polygon": null
+    },
+    {
+      "title": "The Third and Fourth Nightmare",
+      "heading_level": null,
+      "page_id": 251,
+      "polygon": null
+    },
+    {
+      "title": "Investigating the Third Attack",
+      "heading_level": null,
+      "page_id": 252,
+      "polygon": null
+    },
+    {
+      "title": "Coterie Options",
+      "heading_level": null,
+      "page_id": 252,
+      "polygon": null
+    },
+    {
+      "title": "Investigating the Fourth Attack",
+      "heading_level": null,
+      "page_id": 252,
+      "polygon": null
+    },
+    {
+      "title": "Investigating GSG 10",
+      "heading_level": null,
+      "page_id": 252,
+      "polygon": null
+    },
+    {
+      "title": "Coterie Options",
+      "heading_level": null,
+      "page_id": 253,
+      "polygon": null
+    },
+    {
+      "title": "Asano’s Ambush",
+      "heading_level": null,
+      "page_id": 253,
+      "polygon": null
+    },
+    {
+      "title": "Coterie Options",
+      "heading_level": null,
+      "page_id": 253,
+      "polygon": null
+    },
+    {
+      "title": "Chapter Five: Rise and Fall",
+      "heading_level": null,
+      "page_id": 254,
+      "polygon": null
+    },
+    {
+      "title": "Preventing the Fifth Attack",
+      "heading_level": null,
+      "page_id": 254,
+      "polygon": null
+    },
+    {
+      "title": "Epilogue: Death is Certain, Life is Not",
+      "heading_level": null,
+      "page_id": 254,
+      "polygon": null
+    },
+    {
+      "title": "Handout #3: A Letter",
+      "heading_level": null,
+      "page_id": 255,
+      "polygon": null
+    },
+    {
+      "title": "Antagonist Stats",
+      "heading_level": null,
+      "page_id": 256,
+      "polygon": null
+    },
+    {
+      "title": "Hiromitsu Asano",
+      "heading_level": null,
+      "page_id": 256,
+      "polygon": null
+    },
+    {
+      "title": "Kindred Citizens of Munich",
+      "heading_level": null,
+      "page_id": 258,
+      "polygon": null
+    },
+    {
+      "title": "Terrence Rusk, Perses of the Cult of Mithras",
+      "heading_level": null,
+      "page_id": 258,
+      "polygon": null
+    },
+    {
+      "title": "Anna Fleischer of the Cult of Mithras",
+      "heading_level": null,
+      "page_id": 258,
+      "polygon": null
+    },
+    {
+      "title": "Dieter Straub, Baron of Munich",
+      "heading_level": null,
+      "page_id": 258,
+      "polygon": null
+    },
+    {
+      "title": "Peter Bohn, Anarch",
+      "heading_level": null,
+      "page_id": 258,
+      "polygon": null
+    },
+    {
+      "title": "The Risen",
+      "heading_level": null,
+      "page_id": 259,
+      "polygon": null
+    },
+    {
+      "title": "Mortals of Munich",
+      "heading_level": null,
+      "page_id": 260,
+      "polygon": null
+    },
+    {
+      "title": "Grenzschutzgruppe 10",
+      "heading_level": null,
+      "page_id": 260,
+      "polygon": null
+    },
+    {
+      "title": "Police and Wayward Muscle",
+      "heading_level": null,
+      "page_id": 260,
+      "polygon": null
+    },
+    {
+      "title": "Lieschen Müller/Jane Q. Public",
+      "heading_level": null,
+      "page_id": 260,
+      "polygon": null
+    },
+    {
+      "title": "Ready Made Characters",
+      "heading_level": null,
+      "page_id": 261,
+      "polygon": null
+    },
+    {
+      "title": "Christof Giovanni",
+      "heading_level": null,
+      "page_id": 261,
+      "polygon": null
+    },
+    {
+      "title": "Franziska (Hollander) Giovanni",
+      "heading_level": null,
+      "page_id": 262,
+      "polygon": null
+    },
+    {
+      "title": "Jan Puttanesca",
+      "heading_level": null,
+      "page_id": 263,
+      "polygon": null
+    },
+    {
+      "title": "Heather Milliner",
+      "heading_level": null,
+      "page_id": 264,
+      "polygon": null
+    },
+    {
+      "title": "Marlene Drake",
+      "heading_level": null,
+      "page_id": 265,
+      "polygon": null
+    },
+    {
+      "title": "Jürgen Schweiger",
+      "heading_level": null,
+      "page_id": 266,
+      "polygon": null
+    },
+    {
+      "title": "Matters of Faith",
+      "heading_level": null,
+      "page_id": 267,
+      "polygon": null
+    },
+    {
+      "title": "The Sleeping Sword of War",
+      "heading_level": null,
+      "page_id": 267,
+      "polygon": null
+    },
+    {
+      "title": "The Ghosts of Carthage",
+      "heading_level": null,
+      "page_id": 267,
+      "polygon": null
+    },
+    {
+      "title": "Mago",
+      "heading_level": null,
+      "page_id": 268,
+      "polygon": null
+    },
+    {
+      "title": "Resignation of the Righteous",
+      "heading_level": null,
+      "page_id": 268,
+      "polygon": null
+    },
+    {
+      "title": "The Romero Twins",
+      "heading_level": null,
+      "page_id": 268,
+      "polygon": null
+    },
+    {
+      "title": "Idle Hands",
+      "heading_level": null,
+      "page_id": 269,
+      "polygon": null
+    },
+    {
+      "title": "Hellhounds of Satan",
+      "heading_level": null,
+      "page_id": 269,
+      "polygon": null
+    },
+    {
+      "title": "Family Feud",
+      "heading_level": null,
+      "page_id": 270,
+      "polygon": null
+    },
+    {
+      "title": "Shades of Gray",
+      "heading_level": null,
+      "page_id": 270,
+      "polygon": null
+    },
+    {
+      "title": "The Hunt Club",
+      "heading_level": null,
+      "page_id": 270,
+      "polygon": null
+    },
+    {
+      "title": "Prince Vaughn",
+      "heading_level": null,
+      "page_id": 270,
+      "polygon": null
+    },
+    {
+      "title": "Blood Trade",
+      "heading_level": null,
+      "page_id": 271,
+      "polygon": null
+    },
+    {
+      "title": "Absolution",
+      "heading_level": null,
+      "page_id": 271,
+      "polygon": null
+    },
+    {
+      "title": "Ethan Clare",
+      "heading_level": null,
+      "page_id": 272,
+      "polygon": null
+    },
+    {
+      "title": "First Change Fiasco",
+      "heading_level": null,
+      "page_id": 272,
+      "polygon": null
+    },
+    {
+      "title": "Karen Shaw",
+      "heading_level": null,
+      "page_id": 273,
+      "polygon": null
+    },
+    {
+      "title": "Tolerance and Persecution",
+      "heading_level": null,
+      "page_id": 273,
+      "polygon": null
+    },
+    {
+      "title": "The Trinity",
+      "heading_level": null,
+      "page_id": 273,
+      "polygon": null
+    },
+    {
+      "title": "Prince Bruno, Descendant of Michael",
+      "heading_level": null,
+      "page_id": 273,
+      "polygon": null
+    },
+    {
+      "title": "Praise (the Church of) Caine!",
+      "heading_level": null,
+      "page_id": 274,
+      "polygon": null
+    },
+    {
+      "title": "Gladius Domini",
+      "heading_level": null,
+      "page_id": 274,
+      "polygon": null
+    },
+    {
+      "title": "Reverend Alfred Murray",
+      "heading_level": null,
+      "page_id": 274,
+      "polygon": null
+    },
+    {
+      "title": "High and Low",
+      "heading_level": null,
+      "page_id": 275,
+      "polygon": null
+    },
+    {
+      "title": "Sample Cultists",
+      "heading_level": null,
+      "page_id": 275,
+      "polygon": null
+    },
+    {
+      "title": "The Naive Lay Member",
+      "heading_level": null,
+      "page_id": 275,
+      "polygon": null
+    },
+    {
+      "title": "The Inducted Initiate",
+      "heading_level": null,
+      "page_id": 275,
+      "polygon": null
+    },
+    {
+      "title": "The Loyal Acolyte",
+      "heading_level": null,
+      "page_id": 275,
+      "polygon": null
+    },
+    {
+      "title": "The Trusted Templar",
+      "heading_level": null,
+      "page_id": 276,
+      "polygon": null
+    },
+    {
+      "title": "The Grand Inquisitor",
+      "heading_level": null,
+      "page_id": 276,
+      "polygon": null
+    },
+    {
+      "title": "The Devout Clergy",
+      "heading_level": null,
+      "page_id": 276,
+      "polygon": null
+    },
+    {
+      "title": "The Charismatic Prophet",
+      "heading_level": null,
+      "page_id": 276,
+      "polygon": null
+    },
+    {
+      "title": "Back Cover",
+      "heading_level": null,
+      "page_id": 277,
+      "polygon": null
+    }
+  ]
+}
