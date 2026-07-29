@@ -1,0 +1,1270 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Forbidden Religions",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": null
+    },
+    {
+      "title": "Credits",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": null
+    },
+    {
+      "title": "Table of Contents",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": null
+    },
+    {
+      "title": "Sinners and Saviors",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": null
+    },
+    {
+      "title": "Introduction",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": null
+    },
+    {
+      "title": "Kneel and Present Your Neck",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": null
+    },
+    {
+      "title": "Pathways to Power",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": null
+    },
+    {
+      "title": "The Shattered Spear",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": null
+    },
+    {
+      "title": "Blood of Sparta",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": null
+    },
+    {
+      "title": "The Spark of War",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": null
+    },
+    {
+      "title": "Liturgy of the Spear",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": null
+    },
+    {
+      "title": "The Soldier’s Code",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": null
+    },
+    {
+      "title": "Temple of the Spear: Lisbon",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": null
+    },
+    {
+      "title": "Perspectives",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": null
+    },
+    {
+      "title": "Story Hooks",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": null
+    },
+    {
+      "title": "Death Squad",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": null
+    },
+    {
+      "title": "Discovering the Tomb",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": null
+    },
+    {
+      "title": "The Withered Ones",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": null
+    },
+    {
+      "title": "Servants of the Monster",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": null
+    },
+    {
+      "title": "Ancient Tales, Modern Blood",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": null
+    },
+    {
+      "title": "Masks",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": null
+    },
+    {
+      "title": "Faith of the Withered",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": null
+    },
+    {
+      "title": "Sacred Acts",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": null
+    },
+    {
+      "title": "Perspectives",
+      "heading_level": null,
+      "page_id": 18,
+      "polygon": null
+    },
+    {
+      "title": "Obfuscate",
+      "heading_level": null,
+      "page_id": 18,
+      "polygon": null
+    },
+    {
+      "title": "Level 2",
+      "heading_level": null,
+      "page_id": 18,
+      "polygon": null
+    },
+    {
+      "title": "Ghost’s Passing",
+      "heading_level": null,
+      "page_id": 18,
+      "polygon": null
+    },
+    {
+      "title": "Story Hooks",
+      "heading_level": null,
+      "page_id": 19,
+      "polygon": null
+    },
+    {
+      "title": "Marked for Sacrifice",
+      "heading_level": null,
+      "page_id": 19,
+      "polygon": null
+    },
+    {
+      "title": "Willing Victim",
+      "heading_level": null,
+      "page_id": 19,
+      "polygon": null
+    },
+    {
+      "title": "The Shepherds of Ur-Shulgi",
+      "heading_level": null,
+      "page_id": 19,
+      "polygon": null
+    },
+    {
+      "title": "Hierarchy",
+      "heading_level": null,
+      "page_id": 20,
+      "polygon": null
+    },
+    {
+      "title": "Heralds",
+      "heading_level": null,
+      "page_id": 20,
+      "polygon": null
+    },
+    {
+      "title": "Pashas",
+      "heading_level": null,
+      "page_id": 20,
+      "polygon": null
+    },
+    {
+      "title": "Shepherds",
+      "heading_level": null,
+      "page_id": 21,
+      "polygon": null
+    },
+    {
+      "title": "Fanatics",
+      "heading_level": null,
+      "page_id": 21,
+      "polygon": null
+    },
+    {
+      "title": "Organization",
+      "heading_level": null,
+      "page_id": 22,
+      "polygon": null
+    },
+    {
+      "title": "Beliefs",
+      "heading_level": null,
+      "page_id": 22,
+      "polygon": null
+    },
+    {
+      "title": "Modus Operandi",
+      "heading_level": null,
+      "page_id": 22,
+      "polygon": null
+    },
+    {
+      "title": "Perspectives",
+      "heading_level": null,
+      "page_id": 23,
+      "polygon": null
+    },
+    {
+      "title": "New Rituals",
+      "heading_level": null,
+      "page_id": 23,
+      "polygon": null
+    },
+    {
+      "title": "Level 2",
+      "heading_level": null,
+      "page_id": 23,
+      "polygon": null
+    },
+    {
+      "title": "The Shroud of Silence",
+      "heading_level": null,
+      "page_id": 23,
+      "polygon": null
+    },
+    {
+      "title": "Story Hooks",
+      "heading_level": null,
+      "page_id": 23,
+      "polygon": null
+    },
+    {
+      "title": "Hired Gun",
+      "heading_level": null,
+      "page_id": 23,
+      "polygon": null
+    },
+    {
+      "title": "Heretical Purge",
+      "heading_level": null,
+      "page_id": 24,
+      "polygon": null
+    },
+    {
+      "title": "The Praesidium",
+      "heading_level": null,
+      "page_id": 24,
+      "polygon": null
+    },
+    {
+      "title": "Ave Pyramidem",
+      "heading_level": null,
+      "page_id": 24,
+      "polygon": null
+    },
+    {
+      "title": "Cornerstones of the Apex",
+      "heading_level": null,
+      "page_id": 25,
+      "polygon": null
+    },
+    {
+      "title": "Ave Ordinem",
+      "heading_level": null,
+      "page_id": 25,
+      "polygon": null
+    },
+    {
+      "title": "Cedant Classes Sanguini",
+      "heading_level": null,
+      "page_id": 25,
+      "polygon": null
+    },
+    {
+      "title": "Perspectives",
+      "heading_level": null,
+      "page_id": 28,
+      "polygon": null
+    },
+    {
+      "title": "Story Hooks",
+      "heading_level": null,
+      "page_id": 28,
+      "polygon": null
+    },
+    {
+      "title": "Old Knowledge",
+      "heading_level": null,
+      "page_id": 28,
+      "polygon": null
+    },
+    {
+      "title": "Strengthening Blood",
+      "heading_level": null,
+      "page_id": 29,
+      "polygon": null
+    },
+    {
+      "title": "Dreams of Golconda",
+      "heading_level": null,
+      "page_id": 31,
+      "polygon": null
+    },
+    {
+      "title": "The Children of Salvation",
+      "heading_level": null,
+      "page_id": 31,
+      "polygon": null
+    },
+    {
+      "title": "The First Child",
+      "heading_level": null,
+      "page_id": 31,
+      "polygon": null
+    },
+    {
+      "title": "The Children",
+      "heading_level": null,
+      "page_id": 32,
+      "polygon": null
+    },
+    {
+      "title": "Salvation’s Hunt",
+      "heading_level": null,
+      "page_id": 32,
+      "polygon": null
+    },
+    {
+      "title": "The Heresy",
+      "heading_level": null,
+      "page_id": 34,
+      "polygon": null
+    },
+    {
+      "title": "Hierarchy",
+      "heading_level": null,
+      "page_id": 34,
+      "polygon": null
+    },
+    {
+      "title": "Perspectives",
+      "heading_level": null,
+      "page_id": 34,
+      "polygon": null
+    },
+    {
+      "title": "Story Hooks",
+      "heading_level": null,
+      "page_id": 34,
+      "polygon": null
+    },
+    {
+      "title": "Caught in the Crossfire",
+      "heading_level": null,
+      "page_id": 35,
+      "polygon": null
+    },
+    {
+      "title": "A Tasty Morsel",
+      "heading_level": null,
+      "page_id": 35,
+      "polygon": null
+    },
+    {
+      "title": "“I was a Vampire once…”",
+      "heading_level": null,
+      "page_id": 35,
+      "polygon": null
+    },
+    {
+      "title": "The Butterflies",
+      "heading_level": null,
+      "page_id": 36,
+      "polygon": null
+    },
+    {
+      "title": "Blanca’s Rapture",
+      "heading_level": null,
+      "page_id": 36,
+      "polygon": null
+    },
+    {
+      "title": "Reality TV Shows",
+      "heading_level": null,
+      "page_id": 36,
+      "polygon": null
+    },
+    {
+      "title": "Organization",
+      "heading_level": null,
+      "page_id": 37,
+      "polygon": null
+    },
+    {
+      "title": "The Family Home",
+      "heading_level": null,
+      "page_id": 37,
+      "polygon": null
+    },
+    {
+      "title": "Joseph and His Senior Ghouls",
+      "heading_level": null,
+      "page_id": 37,
+      "polygon": null
+    },
+    {
+      "title": "Beliefs",
+      "heading_level": null,
+      "page_id": 37,
+      "polygon": null
+    },
+    {
+      "title": "The Household Within the Domain",
+      "heading_level": null,
+      "page_id": 37,
+      "polygon": null
+    },
+    {
+      "title": "Initiation",
+      "heading_level": null,
+      "page_id": 38,
+      "polygon": null
+    },
+    {
+      "title": "Sacraments",
+      "heading_level": null,
+      "page_id": 38,
+      "polygon": null
+    },
+    {
+      "title": "Enemies",
+      "heading_level": null,
+      "page_id": 38,
+      "polygon": null
+    },
+    {
+      "title": "Perspectives",
+      "heading_level": null,
+      "page_id": 38,
+      "polygon": null
+    },
+    {
+      "title": "Coterie Type: The Household",
+      "heading_level": null,
+      "page_id": 38,
+      "polygon": null
+    },
+    {
+      "title": "Story Hooks",
+      "heading_level": null,
+      "page_id": 39,
+      "polygon": null
+    },
+    {
+      "title": "Made the Papers",
+      "heading_level": null,
+      "page_id": 39,
+      "polygon": null
+    },
+    {
+      "title": "Chameleon",
+      "heading_level": null,
+      "page_id": 39,
+      "polygon": null
+    },
+    {
+      "title": "Lost Childer",
+      "heading_level": null,
+      "page_id": 39,
+      "polygon": null
+    },
+    {
+      "title": "Eremites",
+      "heading_level": null,
+      "page_id": 40,
+      "polygon": null
+    },
+    {
+      "title": "The Saint on the Pillar",
+      "heading_level": null,
+      "page_id": 40,
+      "polygon": null
+    },
+    {
+      "title": "Organization",
+      "heading_level": null,
+      "page_id": 41,
+      "polygon": null
+    },
+    {
+      "title": "Stages of Enlightenment",
+      "heading_level": null,
+      "page_id": 41,
+      "polygon": null
+    },
+    {
+      "title": "Supporters",
+      "heading_level": null,
+      "page_id": 42,
+      "polygon": null
+    },
+    {
+      "title": "Acolytes",
+      "heading_level": null,
+      "page_id": 42,
+      "polygon": null
+    },
+    {
+      "title": "Gurus",
+      "heading_level": null,
+      "page_id": 42,
+      "polygon": null
+    },
+    {
+      "title": "Beliefs",
+      "heading_level": null,
+      "page_id": 42,
+      "polygon": null
+    },
+    {
+      "title": "Recruitment",
+      "heading_level": null,
+      "page_id": 43,
+      "polygon": null
+    },
+    {
+      "title": "The Acolyte in the Domain",
+      "heading_level": null,
+      "page_id": 43,
+      "polygon": null
+    },
+    {
+      "title": "Perspectives",
+      "heading_level": null,
+      "page_id": 44,
+      "polygon": null
+    },
+    {
+      "title": "Fortitude",
+      "heading_level": null,
+      "page_id": 44,
+      "polygon": null
+    },
+    {
+      "title": "Level 3",
+      "heading_level": null,
+      "page_id": 44,
+      "polygon": null
+    },
+    {
+      "title": "Seal the Beast’s Maw",
+      "heading_level": null,
+      "page_id": 44,
+      "polygon": null
+    },
+    {
+      "title": "Story Hooks",
+      "heading_level": null,
+      "page_id": 44,
+      "polygon": null
+    },
+    {
+      "title": "Seek Out the Wise Woman",
+      "heading_level": null,
+      "page_id": 44,
+      "polygon": null
+    },
+    {
+      "title": "Empty Havens",
+      "heading_level": null,
+      "page_id": 44,
+      "polygon": null
+    },
+    {
+      "title": "Rampage",
+      "heading_level": null,
+      "page_id": 45,
+      "polygon": null
+    },
+    {
+      "title": "Hunters of the Golden Cicada",
+      "heading_level": null,
+      "page_id": 45,
+      "polygon": null
+    },
+    {
+      "title": "Where the Yangtze and Jialing Meet, Peace Can Be Found",
+      "heading_level": null,
+      "page_id": 45,
+      "polygon": null
+    },
+    {
+      "title": "Lessons of the Past Carry Forth the Future",
+      "heading_level": null,
+      "page_id": 45,
+      "polygon": null
+    },
+    {
+      "title": "The Great Teacher",
+      "heading_level": null,
+      "page_id": 47,
+      "polygon": null
+    },
+    {
+      "title": "Perspectives",
+      "heading_level": null,
+      "page_id": 47,
+      "polygon": null
+    },
+    {
+      "title": "Chongqing",
+      "heading_level": null,
+      "page_id": 48,
+      "polygon": null
+    },
+    {
+      "title": "Story Hooks",
+      "heading_level": null,
+      "page_id": 48,
+      "polygon": null
+    },
+    {
+      "title": "Under Our Protection",
+      "heading_level": null,
+      "page_id": 48,
+      "polygon": null
+    },
+    {
+      "title": "Prodigal Childer",
+      "heading_level": null,
+      "page_id": 48,
+      "polygon": null
+    },
+    {
+      "title": "Pest Problem",
+      "heading_level": null,
+      "page_id": 49,
+      "polygon": null
+    },
+    {
+      "title": "Eschatological Thought",
+      "heading_level": null,
+      "page_id": 51,
+      "polygon": null
+    },
+    {
+      "title": "The Whispers of the Dead",
+      "heading_level": null,
+      "page_id": 51,
+      "polygon": null
+    },
+    {
+      "title": "The Susurrus",
+      "heading_level": null,
+      "page_id": 52,
+      "polygon": null
+    },
+    {
+      "title": "Behind the Speaker’s Mask",
+      "heading_level": null,
+      "page_id": 52,
+      "polygon": null
+    },
+    {
+      "title": "The Word of the Speaker",
+      "heading_level": null,
+      "page_id": 53,
+      "polygon": null
+    },
+    {
+      "title": "What Do the Whispers Do?",
+      "heading_level": null,
+      "page_id": 54,
+      "polygon": null
+    },
+    {
+      "title": "Hierarchy",
+      "heading_level": null,
+      "page_id": 55,
+      "polygon": null
+    },
+    {
+      "title": "Perspectives",
+      "heading_level": null,
+      "page_id": 55,
+      "polygon": null
+    },
+    {
+      "title": "Story Hooks",
+      "heading_level": null,
+      "page_id": 55,
+      "polygon": null
+    },
+    {
+      "title": "Another Toothpick",
+      "heading_level": null,
+      "page_id": 55,
+      "polygon": null
+    },
+    {
+      "title": "Foul Leakage",
+      "heading_level": null,
+      "page_id": 55,
+      "polygon": null
+    },
+    {
+      "title": "Ancient Enmity",
+      "heading_level": null,
+      "page_id": 56,
+      "polygon": null
+    },
+    {
+      "title": "The Orphans of Enoch",
+      "heading_level": null,
+      "page_id": 56,
+      "polygon": null
+    },
+    {
+      "title": "The Lost Wander No More",
+      "heading_level": null,
+      "page_id": 56,
+      "polygon": null
+    },
+    {
+      "title": "Protect the End",
+      "heading_level": null,
+      "page_id": 57,
+      "polygon": null
+    },
+    {
+      "title": "Orphans Lost and Orphans Found",
+      "heading_level": null,
+      "page_id": 57,
+      "polygon": null
+    },
+    {
+      "title": "Build the City",
+      "heading_level": null,
+      "page_id": 58,
+      "polygon": null
+    },
+    {
+      "title": "Perspectives",
+      "heading_level": null,
+      "page_id": 59,
+      "polygon": null
+    },
+    {
+      "title": "Story Hooks",
+      "heading_level": null,
+      "page_id": 59,
+      "polygon": null
+    },
+    {
+      "title": "You Are Chosen",
+      "heading_level": null,
+      "page_id": 59,
+      "polygon": null
+    },
+    {
+      "title": "Unusual Habits",
+      "heading_level": null,
+      "page_id": 59,
+      "polygon": null
+    },
+    {
+      "title": "The Gardener Cometh",
+      "heading_level": null,
+      "page_id": 60,
+      "polygon": null
+    },
+    {
+      "title": "The Third Day",
+      "heading_level": null,
+      "page_id": 60,
+      "polygon": null
+    },
+    {
+      "title": "Empire of Blood",
+      "heading_level": null,
+      "page_id": 60,
+      "polygon": null
+    },
+    {
+      "title": "Reign of One Thousand Years",
+      "heading_level": null,
+      "page_id": 60,
+      "polygon": null
+    },
+    {
+      "title": "Antwerp, Belgium",
+      "heading_level": null,
+      "page_id": 61,
+      "polygon": null
+    },
+    {
+      "title": "By the Mark of the Moon",
+      "heading_level": null,
+      "page_id": 61,
+      "polygon": null
+    },
+    {
+      "title": "Every Good Gift",
+      "heading_level": null,
+      "page_id": 61,
+      "polygon": null
+    },
+    {
+      "title": "Perspectives",
+      "heading_level": null,
+      "page_id": 62,
+      "polygon": null
+    },
+    {
+      "title": "Story Hooks",
+      "heading_level": null,
+      "page_id": 62,
+      "polygon": null
+    },
+    {
+      "title": "The Crawlspace is Full",
+      "heading_level": null,
+      "page_id": 62,
+      "polygon": null
+    },
+    {
+      "title": "Interception Mission",
+      "heading_level": null,
+      "page_id": 63,
+      "polygon": null
+    },
+    {
+      "title": "Victims of the Hunt",
+      "heading_level": null,
+      "page_id": 63,
+      "polygon": null
+    },
+    {
+      "title": "Ruinous Beliefs",
+      "heading_level": null,
+      "page_id": 65,
+      "polygon": null
+    },
+    {
+      "title": "The Bloodless Pilgrims",
+      "heading_level": null,
+      "page_id": 65,
+      "polygon": null
+    },
+    {
+      "title": "The First Pilgrims",
+      "heading_level": null,
+      "page_id": 65,
+      "polygon": null
+    },
+    {
+      "title": "The Path to Purity",
+      "heading_level": null,
+      "page_id": 66,
+      "polygon": null
+    },
+    {
+      "title": "New Ritual",
+      "heading_level": null,
+      "page_id": 66,
+      "polygon": null
+    },
+    {
+      "title": "Level 3: Bloodless Feast",
+      "heading_level": null,
+      "page_id": 66,
+      "polygon": null
+    },
+    {
+      "title": "Perspectives",
+      "heading_level": null,
+      "page_id": 69,
+      "polygon": null
+    },
+    {
+      "title": "Story Hooks",
+      "heading_level": null,
+      "page_id": 69,
+      "polygon": null
+    },
+    {
+      "title": "Warlock Fire",
+      "heading_level": null,
+      "page_id": 70,
+      "polygon": null
+    },
+    {
+      "title": "Parity Shift",
+      "heading_level": null,
+      "page_id": 70,
+      "polygon": null
+    },
+    {
+      "title": "The Children of the Devourer",
+      "heading_level": null,
+      "page_id": 70,
+      "polygon": null
+    },
+    {
+      "title": "Across a Tumultuous Sea",
+      "heading_level": null,
+      "page_id": 70,
+      "polygon": null
+    },
+    {
+      "title": "Ironwood Horror",
+      "heading_level": null,
+      "page_id": 70,
+      "polygon": null
+    },
+    {
+      "title": "The Priesthood",
+      "heading_level": null,
+      "page_id": 71,
+      "polygon": null
+    },
+    {
+      "title": "The Congregants",
+      "heading_level": null,
+      "page_id": 71,
+      "polygon": null
+    },
+    {
+      "title": "Obsessions and Convictions",
+      "heading_level": null,
+      "page_id": 71,
+      "polygon": null
+    },
+    {
+      "title": "Servants and Tools",
+      "heading_level": null,
+      "page_id": 72,
+      "polygon": null
+    },
+    {
+      "title": "Current Activities",
+      "heading_level": null,
+      "page_id": 72,
+      "polygon": null
+    },
+    {
+      "title": "Perspectives",
+      "heading_level": null,
+      "page_id": 73,
+      "polygon": null
+    },
+    {
+      "title": "Story Hooks",
+      "heading_level": null,
+      "page_id": 73,
+      "polygon": null
+    },
+    {
+      "title": "The Call North",
+      "heading_level": null,
+      "page_id": 73,
+      "polygon": null
+    },
+    {
+      "title": "Marauding Horde",
+      "heading_level": null,
+      "page_id": 73,
+      "polygon": null
+    },
+    {
+      "title": "The Penny Dining Club",
+      "heading_level": null,
+      "page_id": 74,
+      "polygon": null
+    },
+    {
+      "title": "A Gourmet Experience",
+      "heading_level": null,
+      "page_id": 74,
+      "polygon": null
+    },
+    {
+      "title": "The Taste of Pain",
+      "heading_level": null,
+      "page_id": 75,
+      "polygon": null
+    },
+    {
+      "title": "The Founders",
+      "heading_level": null,
+      "page_id": 76,
+      "polygon": null
+    },
+    {
+      "title": "The Diners",
+      "heading_level": null,
+      "page_id": 76,
+      "polygon": null
+    },
+    {
+      "title": "Culinary Invention",
+      "heading_level": null,
+      "page_id": 76,
+      "polygon": null
+    },
+    {
+      "title": "New Ritual",
+      "heading_level": null,
+      "page_id": 76,
+      "polygon": null
+    },
+    {
+      "title": "Level 1",
+      "heading_level": null,
+      "page_id": 76,
+      "polygon": null
+    },
+    {
+      "title": "Enrich the Blood",
+      "heading_level": null,
+      "page_id": 76,
+      "polygon": null
+    },
+    {
+      "title": "Level 2",
+      "heading_level": null,
+      "page_id": 77,
+      "polygon": null
+    },
+    {
+      "title": "Enhance Dyscrasia",
+      "heading_level": null,
+      "page_id": 77,
+      "polygon": null
+    },
+    {
+      "title": "Perspectives",
+      "heading_level": null,
+      "page_id": 77,
+      "polygon": null
+    },
+    {
+      "title": "Story Hooks",
+      "heading_level": null,
+      "page_id": 77,
+      "polygon": null
+    },
+    {
+      "title": "A Hair in My Soup",
+      "heading_level": null,
+      "page_id": 77,
+      "polygon": null
+    },
+    {
+      "title": "Live Like a Rockstar",
+      "heading_level": null,
+      "page_id": 77,
+      "polygon": null
+    },
+    {
+      "title": "Rare Vintage",
+      "heading_level": null,
+      "page_id": 78,
+      "polygon": null
+    },
+    {
+      "title": "The Soldiers of the Adversary",
+      "heading_level": null,
+      "page_id": 78,
+      "polygon": null
+    },
+    {
+      "title": "In the Beginning",
+      "heading_level": null,
+      "page_id": 78,
+      "polygon": null
+    },
+    {
+      "title": "A Time of Revelations",
+      "heading_level": null,
+      "page_id": 78,
+      "polygon": null
+    },
+    {
+      "title": "The Priesthood",
+      "heading_level": null,
+      "page_id": 79,
+      "polygon": null
+    },
+    {
+      "title": "Perspectives",
+      "heading_level": null,
+      "page_id": 82,
+      "polygon": null
+    },
+    {
+      "title": "Story Hooks",
+      "heading_level": null,
+      "page_id": 82,
+      "polygon": null
+    },
+    {
+      "title": "The Smell of Burning",
+      "heading_level": null,
+      "page_id": 82,
+      "polygon": null
+    },
+    {
+      "title": "Diabolic Coup",
+      "heading_level": null,
+      "page_id": 83,
+      "polygon": null
+    },
+    {
+      "title": "Optional Advantages",
+      "heading_level": null,
+      "page_id": 85,
+      "polygon": null
+    },
+    {
+      "title": "Merits and Flaws",
+      "heading_level": null,
+      "page_id": 85,
+      "polygon": null
+    },
+    {
+      "title": "Looks",
+      "heading_level": null,
+      "page_id": 85,
+      "polygon": null
+    },
+    {
+      "title": "Semblance of the Methuselah (• to ••)",
+      "heading_level": null,
+      "page_id": 85,
+      "polygon": null
+    },
+    {
+      "title": "Psychological",
+      "heading_level": null,
+      "page_id": 86,
+      "polygon": null
+    },
+    {
+      "title": "Penitence (• to •••••)",
+      "heading_level": null,
+      "page_id": 86,
+      "polygon": null
+    },
+    {
+      "title": "Unholy Will (•• or ••••)",
+      "heading_level": null,
+      "page_id": 86,
+      "polygon": null
+    },
+    {
+      "title": "Zealotry (• to •••)",
+      "heading_level": null,
+      "page_id": 86,
+      "polygon": null
+    },
+    {
+      "title": "Contagion",
+      "heading_level": null,
+      "page_id": 86,
+      "polygon": null
+    },
+    {
+      "title": "Mythical",
+      "heading_level": null,
+      "page_id": 87,
+      "polygon": null
+    },
+    {
+      "title": "Cold Dead Hunger (•••)",
+      "heading_level": null,
+      "page_id": 87,
+      "polygon": null
+    },
+    {
+      "title": "Pack Diablerie (••)",
+      "heading_level": null,
+      "page_id": 87,
+      "polygon": null
+    },
+    {
+      "title": "Loresheets",
+      "heading_level": null,
+      "page_id": 88,
+      "polygon": null
+    },
+    {
+      "title": "1444 Chamber",
+      "heading_level": null,
+      "page_id": 88,
+      "polygon": null
+    },
+    {
+      "title": "Blood Asceticism",
+      "heading_level": null,
+      "page_id": 89,
+      "polygon": null
+    },
+    {
+      "title": "Gehenna Cults",
+      "heading_level": null,
+      "page_id": 90,
+      "polygon": null
+    },
+    {
+      "title": "Plagues of Gehenna",
+      "heading_level": null,
+      "page_id": 91,
+      "polygon": null
+    },
+    {
+      "title": "Praepositor",
+      "heading_level": null,
+      "page_id": 92,
+      "polygon": null
+    },
+    {
+      "title": "Spear of Orthia",
+      "heading_level": null,
+      "page_id": 93,
+      "polygon": null
+    },
+    {
+      "title": "Back Cover",
+      "heading_level": null,
+      "page_id": 94,
+      "polygon": null
+    }
+  ]
+}
