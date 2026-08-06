@@ -2,20 +2,18 @@ One-shot: The Dead Man. Vampire: the Masquerade 5th Ed.
 
 Los Angeles, 2025.
 
-A new power is moving into the city: the necromancers of Hecata rent a villa in the hills and send out envelopes sealed with wax. The dress code: like a funeral for a beloved relative.
+An alliance of necromancer families, woven from former blood enemies, is holding closed evenings in the city for the first time after many years of absence. Behind the doors of the Giovanni villa are the barons' protégés of the Anarch Free State, Kindred of the Camarilla court, traders from the local black market, and the elders of the alliance's six lines: Giovanni, Puttanesca, Dunsirn, Pisanob, Samedi, and the Harbingers.
 
-You are the Family's younger kin: six surnames, one kids' table, and a shared fatigue from the elders' errands. While the grown-ups carve up the city at a private reception, the night's dirty work lands on you: a heavy trunk that must be driven across half of Los Angeles, past the cameras of Hollywood, the cordons of the South, and the port customs of the Coast. Each of you carries your own instruction from your own elder, and the others know nothing about it.
+While the donna, capo, bankers, and occultists divide the city, they give their childer one shared assignment: pick up a chest from the port and deliver it to the villa through customs, police cordons, Hollywood cameras, and foreign domains. Each elder has their own stake in it, and each of you may have your own.
 
-When: <date>.
-
-Where: 37a Vakhtang Bochorishvili St. (Mesto).
+August 9 at 18:00 at 37a Vakhtang Bochorishvili St. (Mesto).
 
 Price: Mesto fee only.
 
-Duration: 3-4 hours.
+Duration: from 4 hours.
 
-Characters: pre-generated, young kin of the Hecata families (Giovanni, Puttanesca, Dunsirn, Pisanob, Samedi, Harbingers). Sheets and setting materials provided.
+Characters: pre-gens, young kin of the Hecata families.
 
-Players: 4 seats.
+Players: 4 to 6 seats.
 
 Sign up with @ocelloid or via the bot.
